@@ -167,4 +167,14 @@ nav .btn {
 .cards .card:last-of-type {
   margin-right: 0;
 }
+
+.cards .card h3 {
+  font-size: 20px;
+  margin: 17px 0;
+}
+
+.cards .card p {
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.7);
+}
 /*# sourceMappingURL=style.css.map */

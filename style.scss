@@ -116,6 +116,7 @@ nav {
     h1 {
         font-size:30px;
         font-weight: bold;
+      
     }
     p {
         font-size:20px;
@@ -140,6 +141,15 @@ nav {
         }
         &:last-of-type {
             margin-right: 0;
+        }
+        h3 {
+            font-size:20px;
+            margin: 17px 0;
+        }
+        p {
+            font-size:17px;
+            color:rgba(0, 0, 0, 0.7);
+  
         }
     }
 }
